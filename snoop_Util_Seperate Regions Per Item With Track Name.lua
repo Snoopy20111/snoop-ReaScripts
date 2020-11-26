@@ -3,7 +3,6 @@
  * Description: Make regions for each media item, named after the track, with that track assigned in the region render matrix
  * Author: Logan Hardin
  * Author URL: loganhardin.xyz
- * Repository URL: 
  * REAPER: 6.xx
  * Extensions: None
  * Version: 1.0
