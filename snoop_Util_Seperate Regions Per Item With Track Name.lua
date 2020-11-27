@@ -2,7 +2,7 @@
  * ReaScript Name: snoop_Util_Seperate Regions Per Item With Track Name
  * Description: Make regions for each media item, named after the track, with that track assigned in the region render matrix
  * Author: Logan Hardin
- * Author URL: loganhardin.xyz
+ * Author URl: loganhardin.xyz
  * Github Repository: https://github.com/Snoopy20111/snoop-ReaScripts
  * REAPER: 6.xx
  * Extensions: None
@@ -21,13 +21,10 @@ for i=0, reaper.CountSelectedMediaItems(0)-1 do
 	Item = reaper.GetSelectedMediaItem(0,i)
 	Item_Track = reaper.GetMediaItemTrack(Item)
 	ok, Track_Name = reaper.GetTrackName(Item_Track, "")
-	--reaper.ShowConsoleMsg("This track is " .. Track_Name .. "\n")
 	
 	--Get the start position of Item and do quik maffs to find the end point.
 	local Item_Start = reaper.GetMediaItemInfo_Value(Item, "D_POSITION")
-	--reaper.ShowConsoleMsg("Item Start is " .. Item_Start .. "\n")
 	local Item_End = Item_Start + reaper.GetMediaItemInfo_Value(Item, "D_LENGTH")
-	--reaper.ShowConsoleMsg("Item End is " .. Item_End .. "\n")
 	
 	--Make a region with that position, using the track's name
 	local Region_Index = reaper.AddProjectMarker2(0, true, Item_Start, Item_End, Track_Name, -1, 0)
