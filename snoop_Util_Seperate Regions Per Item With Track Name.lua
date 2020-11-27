@@ -1,8 +1,9 @@
 --[[
- * ReaScript Name: Hardin- Seperate Regions Per Item With Track Name
+ * ReaScript Name: snoop_Util_Seperate Regions Per Item With Track Name
  * Description: Make regions for each media item, named after the track, with that track assigned in the region render matrix
  * Author: Logan Hardin
  * Author URL: loganhardin.xyz
+ * Github Repository: https://github.com/Snoopy20111/snoop-ReaScripts
  * REAPER: 6.xx
  * Extensions: None
  * Version: 1.0
