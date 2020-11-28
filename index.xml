@@ -14,4 +14,18 @@
       </version>
     </reapack>
   </category>
+  <metadata>
+    <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 \b \fs36 Snoop- ReaScripts\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 A repository of Lua scripts used for Reaper. Mostly simple utilities.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 You can also check me out at {\field{\*\fldinst{HYPERLINK "https://loganhardin.xyz/"}}{\fldrslt{\ul
+my website.
+}}}
+\par}
+}
+]]></description>
+  </metadata>
 </index>
