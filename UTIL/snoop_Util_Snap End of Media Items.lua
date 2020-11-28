@@ -2,7 +2,7 @@
  * ReaScript Name: snoop_Util_Snap End of Media Items
  * Description: Snaps end of media items to the closest grid division
  * Author: Logan Hardin
- * Author URl: loganhardin.xyz
+ * Author URl: https://loganhardin.xyz
  * Github Repository: https://github.com/Snoopy20111/snoop-ReaScripts
  * REAPER: 6.xx
  * Extensions: None
