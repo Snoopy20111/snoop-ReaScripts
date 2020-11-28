@@ -1,2 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="snoop-ReaScripts"/>
+<index version="1" name="snoop-ReaScripts" commit="6895318e5dbe20fcee1283ce0feca4b857058420">
+  <category name="UTIL">
+    <reapack name="snoop_Util_Seperate Regions Per Item With Track Name.lua" type="script" desc="snoop_Util_Seperate Regions Per Item With Track Name">
+      <version name="1.0" author="Logan Hardin" time="2020-11-28T04:54:14Z">
+        <changelog><![CDATA[+Initial Release]]></changelog>
+        <source main="main">https://github.com/Snoopy20111/snoop-ReaScripts/raw/6895318e5dbe20fcee1283ce0feca4b857058420/UTIL/snoop_Util_Seperate%20Regions%20Per%20Item%20With%20Track%20Name.lua</source>
+      </version>
+    </reapack>
+    <reapack name="snoop_Util_Snap End of Media Items.lua" type="script" desc="snoop_Util_Snap End of Media Items">
+      <version name="1.0" author="Logan Hardin" time="2020-11-28T04:54:14Z">
+        <changelog><![CDATA[+Initial Release]]></changelog>
+        <source main="main">https://github.com/Snoopy20111/snoop-ReaScripts/raw/6895318e5dbe20fcee1283ce0feca4b857058420/UTIL/snoop_Util_Snap%20End%20of%20Media%20Items.lua</source>
+      </version>
+    </reapack>
+  </category>
+</index>
