@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="snoop-ReaScripts" commit="ce69c9b37021b37cdc5ce939406edeeb09b35abe">
+<index version="1" name="snoop-ReaScripts" commit="1df9ed84d5609c999e663cb941292410219319ce">
   <category name="Developer">
-    <reapack name="snoop_CommonFunctions.lua" type="script" desc="Snoop_Util">
+    <reapack name="snoop_CommonFunctions.lua" type="script" desc="Snoop_CommonFunctions">
       <version name="1.0" author="Logan Hardin" time="2021-07-11T20:08:50Z">
         <changelog><![CDATA[+Initial Release]]></changelog>
         <source main="main">https://github.com/Snoopy20111/snoop-ReaScripts/raw/ce69c9b37021b37cdc5ce939406edeeb09b35abe/Developer/snoop_CommonFunctions.lua</source>
